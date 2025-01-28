@@ -10,7 +10,7 @@ const Navbar = ({show}) => {
         <Link to={'/'}>Home</Link>
         <Link to={'/about'}>About</Link>
         <Link to={'/resume'}>Resume</Link>
-        <Link to={'/portfolio'}>Portfolio</Link>
+        <Link to={'/portfolio'}>Projects</Link>
       </ul>
       <div className="phone">
         <CiMobile3/>

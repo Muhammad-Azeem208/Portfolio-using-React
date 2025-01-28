@@ -33,6 +33,13 @@ const Portfolio = ({ show, setShow }) => {
       thumbnail: "/restaurant.png",
       projectUrl: "https://restaurant-reservation-azeem.netlify.app/",
     },
+    {
+      _id: "5",
+      title: "ToDo App",
+      category: "React",
+      thumbnail: "/todo.png",
+      projectUrl: "/",
+    },
   ];
   return (
     <section className="page portfolioPage">
