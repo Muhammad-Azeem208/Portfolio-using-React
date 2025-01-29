@@ -38,14 +38,14 @@ const Portfolio = ({ show, setShow }) => {
       title: "ToDo App",
       category: "React",
       thumbnail: "/todo.png",
-      projectUrl: "/https://task-react-webapp.netlify.app/",
+      projectUrl: "https://task-react-webapp.netlify.app/",
     },
     {
       _id: "6",
       title: "Portfolio",
       category: "React",
       thumbnail: "/portfolio.png",
-      projectUrl: "/https://mazeemportfolio.netlify.app/",
+      projectUrl: "https://mazeemportfolio.netlify.app/",
     },
   ];
   return (
