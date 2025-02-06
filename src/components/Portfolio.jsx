@@ -47,6 +47,13 @@ const Portfolio = ({ show, setShow }) => {
       thumbnail: "/portfolio.png",
       projectUrl: "https://mazeemportfolio.netlify.app/",
     },
+    {
+      _id: "7",
+      title: "Weather App",
+      category: "React",
+      thumbnail: "/weather.png",
+      projectUrl: "https://webapp-weather-react.netlify.app/",
+    },
   ];
   return (
     <section className="page portfolioPage">
