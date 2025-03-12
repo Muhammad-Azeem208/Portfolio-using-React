@@ -54,6 +54,13 @@ const Portfolio = ({ show, setShow }) => {
       thumbnail: "/weather.png",
       projectUrl: "https://webapp-weather-react.netlify.app/",
     },
+    {
+      _id: "8",
+      title: "Authentication Features",
+      category: "MERN STACK",
+      thumbnail: "/auth.jpg",
+      projectUrl: "https://mern-auth-webapp.netlify.app/",
+    },
   ];
   return (
     <section className="page portfolioPage">
